@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌍 Tripora — Immersive AI Travel Experience
 
-## Getting Started
+> ✈️ **Travel beyond the ordinary.**  
+> Explore destinations through cinematic visuals, interactive 3D experiences, smooth scroll animations, and a premium glassmorphism interface.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ✨ About Tripora
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Tripora** is an immersive travel exploration website designed to make destination discovery feel cinematic and interactive.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Instead of presenting destinations as traditional travel cards, Tripora combines:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- 🌍 Immersive destination experiences
+- 🎬 Cinematic image sequences
+- 🏛️ Interactive 3D-style landmark experiences
+- 🖱️ Scroll-controlled animations
+- 🔄 Smooth automatic rotations
+- 🪟 Glassmorphism UI
+- 🌸 Sakura-inspired visual themes
+- 🌅 Cinematic travel backgrounds
+- 📱 Responsive layouts
 
-## Learn More
+The goal is to transform travel discovery into an **interactive visual journey**.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 Features
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 🏠 Cinematic Hero Section
 
-## Deploy on Vercel
+- Full-screen immersive travel experience
+- Large editorial typography
+- Cinematic background visuals
+- Premium glassmorphism elements
+- Travel-focused CTA interactions
+- Responsive design
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 🎞️ Scroll-Based Image Sequence
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Tripora uses a sequence of high-resolution image frames to create cinematic motion.
+
+```text
+Frame 001
+   ↓
+Frame 002
+   ↓
+Frame 003
+   ↓
+   ...
+   ↓
+Frame 078
